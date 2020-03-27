@@ -1,2 +1,2 @@
 # Handy-Counter-
-Handy Counting Cart using REACT, NODE, JSX and CSS
+Handy Counting Cart using React.js, Node.js, JSX and CSS
